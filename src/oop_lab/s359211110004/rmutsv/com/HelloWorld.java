@@ -7,6 +7,9 @@ public static void main(String[] args) {
 
     System.out.println("Hello world, I'm AE");
     System.out.println("My name is Kanyarat Songsri");
+//    add information
+    System.out.println("Faculty: Management Technology");
+    System.out.println("RMUTSV");
 
 
 
