@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../OOP_359211110004/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -252,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511062612020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testing delete Tnformation">
+      <created>1511062750787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511062750787</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
