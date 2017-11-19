@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/src/oop_lab/s359211110004/rmutsv/com/HelloWorld.java" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/oop_lab/s359211110004/rmutsv/com/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110004/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -246,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511062439729</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Testing delete Tnformation">
+      <created>1511062612020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511062612020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -287,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing upload to Github" />
     <MESSAGE value="Add Tnformation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Tnformation" />
+    <MESSAGE value="Testing delete Tnformation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing delete Tnformation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
