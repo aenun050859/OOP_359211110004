@@ -18,17 +18,13 @@ public class TestSwitch {
 
         char c = 'A';
         switch (c){
-            case 'A': System.out.println("A ant")break;
-            case 'B': System.out.println("B bird")break;
-            case 'C': System.out.println("C cat")break;
-            default: System.out.println("D dog");
+            case 'A': System.out.println("A ant");break;
+            case 'B': System.out.println("B bird");break;
+            case 'C': System.out.println("C cat");break;
+            default: System.out.println("Thank you");
+
+
         }//switch
-
-
-
-
-
-
 
 
     }//main
