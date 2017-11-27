@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab3/TestSwitch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab3/CalGrade.java" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab3/CalGrade.java" />
-    </list>
+    <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../OOP_359211110004/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -446,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511769539449</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Grade">
+      <created>1511771104018</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511771104018</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -492,7 +495,8 @@
     <MESSAGE value="Input Data" />
     <MESSAGE value="Testing input agin" />
     <MESSAGE value="TestCondition" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestCondition" />
+    <MESSAGE value="Grade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
