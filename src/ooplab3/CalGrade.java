@@ -21,7 +21,7 @@ public class CalGrade {
          else if (score <= 79) System.out.println("Your grade: B");
          else  System.out.println("Your grade: A");
 
-}// main
+      }// main
 
 
 }// class
