@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab2/TestInputData.java" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab2/TestInputData.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110004/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="TestInputData.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab2/TestInputData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="244">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -356,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511168407971</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Testing input agin">
+      <created>1511766700667</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511766700667</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -400,7 +406,8 @@
     <MESSAGE value="Testing delete Tnformation" />
     <MESSAGE value="Variables and Data types" />
     <MESSAGE value="Input Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Input Data" />
+    <MESSAGE value="Testing input agin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing input agin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -475,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab2/TestInputData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="244">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
