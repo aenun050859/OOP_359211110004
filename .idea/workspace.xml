@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="InputDataToArray">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/OperatorArry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/SortingArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/myArray2D.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110004/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../OOP_359211110004/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myArray2D.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myArray2D.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/myArray2D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -49,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorArry.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OperatorArry.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/OperatorArry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -559,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514185983447</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="myArray2D">
+      <created>1514189294190</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1514189294190</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -615,7 +617,8 @@
     <MESSAGE value="Test While" />
     <MESSAGE value="myArray" />
     <MESSAGE value="InputDataToArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="InputDataToArray" />
+    <MESSAGE value="myArray2D" />
+    <option name="LAST_COMMIT_MESSAGE" value="myArray2D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -847,14 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/OperatorArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/myArray2D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -862,6 +857,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110004/src/ooplab5/OperatorArry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
