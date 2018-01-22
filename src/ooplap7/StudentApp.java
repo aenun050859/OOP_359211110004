@@ -44,6 +44,7 @@ public class StudentApp {
         System.out.println("ID: "+s.getId());
         System.out.println("Name: "+ s.getname());
         System.out.println("Major: "+ s.getmajor());
+        System.out.println("group: "+ s.getgroup());
 
 
     }//showData
