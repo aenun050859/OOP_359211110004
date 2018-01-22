@@ -20,7 +20,7 @@ public class InputDataToArray {
 //            System.out.print(num[i] + " ");
 //        }
         //enhance loop
-        for (int i : num) {
+        for (Integer i:num) {
             System.out.print(i + " ");
         }
         System.out.println();
