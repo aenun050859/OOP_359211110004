@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f311a447-79a1-4234-931c-ad64511a94dc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplap7/StudentApp.java" afterPath="$PROJECT_DIR$/src/ooplap7/StudentApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplap7/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -25,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplap7/StudentApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -581,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516607213617</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Student and App object">
+      <created>1516607789076</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1516607789076</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -640,7 +646,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Testing upload to Github" />
     <MESSAGE value="Add Tnformation" />
     <MESSAGE value="Testing delete Tnformation" />
     <MESSAGE value="Variables and Data types" />
@@ -665,7 +670,8 @@
     <MESSAGE value="myStrBuffer" />
     <MESSAGE value="StudentApp" />
     <MESSAGE value="Student and App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student and App" />
+    <MESSAGE value="Student and App object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student and App object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -724,14 +730,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplap7/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,6 +1014,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplap7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
