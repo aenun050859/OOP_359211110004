@@ -689,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517214880007</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Rectangle">
+      <created>1517214914582</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1517214914582</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -728,7 +735,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Swict in put" />
     <MESSAGE value="Input Score with Grade" />
     <MESSAGE value="Input" />
     <MESSAGE value="Nested Loop" />
@@ -753,7 +759,8 @@
     <MESSAGE value="Cat" />
     <MESSAGE value="PetApp" />
     <MESSAGE value="Shape" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shape" />
+    <MESSAGE value="Rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rectangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
