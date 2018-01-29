@@ -1,5 +1,7 @@
 package ooplab8;
 
 public interface Campus {
-    public
-}
+    void getCampusName();
+    void  getArea();
+
+}//Campus
