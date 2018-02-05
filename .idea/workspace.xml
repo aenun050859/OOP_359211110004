@@ -93,21 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab9/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cow.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Cow.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Cow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="264">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
                 <element signature="e#191#192#0" expanded="true" />
@@ -485,13 +475,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511057155139</updated>
     </task>
-    <task id="LOCAL-00003" summary="Testing delete Tnformation">
-      <created>1511062612020</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1511062612020</updated>
-    </task>
     <task id="LOCAL-00004" summary="Testing delete Tnformation">
       <created>1511062750787</created>
       <option name="number" value="00004" />
@@ -828,7 +811,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517819820498</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Car">
+      <created>1517819862729</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1517819862729</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -895,7 +885,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OperatorArray" />
     <MESSAGE value="SortingArray" />
     <MESSAGE value="myString" />
     <MESSAGE value="compareString" />
@@ -920,7 +909,8 @@
     <MESSAGE value="Address" />
     <MESSAGE value="Job" />
     <MESSAGE value="PersonApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonApp" />
+    <MESSAGE value="Car" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1301,25 +1291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/PersonApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/Cow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab9/CarApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1341,6 +1312,25 @@
         <state relative-caret-position="274">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/PersonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/Cow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
