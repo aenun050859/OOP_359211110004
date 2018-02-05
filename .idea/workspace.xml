@@ -93,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CarApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/CarApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -103,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
@@ -462,13 +462,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511057155139</updated>
     </task>
-    <task id="LOCAL-00005" summary="Testing delete Tnformation">
-      <created>1511062758623</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1511062758623</updated>
-    </task>
     <task id="LOCAL-00006" summary="Variables and Data types">
       <created>1511165759393</created>
       <option name="number" value="00006" />
@@ -805,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517819886680</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="CarApp">
+      <created>1517819909244</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1517819909244</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -872,7 +872,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="myString" />
     <MESSAGE value="compareString" />
     <MESSAGE value="myStrBuffer" />
     <MESSAGE value="StudentApp" />
@@ -897,7 +896,8 @@
     <MESSAGE value="PersonApp" />
     <MESSAGE value="Car" />
     <MESSAGE value="Cow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cow" />
+    <MESSAGE value="CarApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="CarApp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1278,14 +1278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab9/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -1317,6 +1309,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
